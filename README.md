@@ -8,7 +8,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 
 ## 🌟 Certificates
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103209991?key=a6b541a5eeb125dd90eb9d7d51cc5e6a038c0d05b0a7f22a2eebaa7dec5bd57b">
-<img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png">
+<img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width=200px>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-marques-al/) [![tryhackme](https://img.shields.io/badge/tryhackme-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/410g0n3)  [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://410g0n3.medium.com)
