@@ -1,6 +1,6 @@
-# 410 Gone
+<p align="center"> # 410 Gone
 The HTTP `410 Gone` client error response code indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent.
-
+  </p>
 ## 🚀 About Me
 I am passionate about technology, and as a professional, I am a network technician with a focus on cybersecurity. I have over five years of experience in networking, including tasks such as configuring, maintaining, designing new networks, and troubleshooting. I’ve developed these skills through work in various sectors, including ISPs, MSPs, business environments, hospitality, among others. This has allowed me to validate my knowledge of routing and switching with different vendors such as MikroTik, Fortinet, Huawei, Extreme, and many others.
 While networking is my strong suit, I also have experience with Linux-based systems, which I’ve gained by managing my own servers and services, building my own labs, and deploying and configuring monitoring and security alert systems.
