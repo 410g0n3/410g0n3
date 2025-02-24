@@ -9,15 +9,15 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 ## 👨‍💻 Tech stack
 **Programming & Scripting**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)    [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-**Operating Systems**
+<br>**Operating Systems**
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-**Others**
+<br>**Others**
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#) 
-**Networking**
+<br>**Networking**
 [![Firewall](https://img.shields.io/badge/Firewall-green)](#)  [![VLAN](https://img.shields.io/badge/VLAN-orange)](#)  [![VPN](https://img.shields.io/badge/VPN-blue)](#) [![TCP/IP](https://img.shields.io/badge/TCP/IP-gray)](#)  [![DNS](https://img.shields.io/badge/DNS-yellow)](#)  [![BGP](https://img.shields.io/badge/BGP-purple)](#) [![SD-WAN](https://img.shields.io/badge/SD%20WAN-cyan)](#)
-**Tools**
+<br>**Tools**
 [![Wireshark](https://img.shields.io/badge/Wireshark-blueviolet)](#)  [![Nmap](https://img.shields.io/badge/Nmap-red)](#) [![MTR](https://img.shields.io/badge/MTR-darkgreen)](#)
-**Virtualization**
+<br>**Virtualization**
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![VMware ESXi](https://img.shields.io/badge/VMware-blue)](#)  [![Proxmox](https://img.shields.io/badge/Proxmox-orange)](#)
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=410g0n3&layout=compact)](https://github.com/410g0n3/)
