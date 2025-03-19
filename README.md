@@ -30,7 +30,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 - **Udemy**: [MikroTik: From begginer to expert - Eduardo Nazareno](https://www.udemy.com/course/mikrotik-de-principiante-a-experto/)
 - **Udemy**: [Fortinet 7.x: From begginer to expert - Eduardo Nazareno / In progress](https://www.udemy.com/course/fortinet-7-de-principiante-a-experto/)
 - **Fortinet Training Institute**: [FCA - FortiGate 7.4 Operator](https://training.fortinet.com/course/view.php?id=39326)
-- **RIPE Academy**: [BGP Security / In progess](https://academy.ripe.net/course/view.php?id=15)
+- **RIPE Academy**: [BGP Security](https://academy.ripe.net/course/view.php?id=15)
 ### Cibersecurity 🔒
 - **WiFiChallenge Academy**: [CWP: Certified WiFiChallenge Professional / In progress](https://academy.wifichallenge.com/courses/certified-wifichallenge-professional-cwp-esp)
 - **TCM Security**: [Practical Ethical Hacking - The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
