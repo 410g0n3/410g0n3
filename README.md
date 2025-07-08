@@ -2,7 +2,7 @@
 The HTTP `410 Gone` client error response code indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent.
 
 ## 🚀 About Me
-I am passionate about technology, and as a professional, I am a network technician with a focus on cybersecurity. I have over five years of experience in networking, including tasks such as configuring, maintaining, designing new networks, and troubleshooting. I’ve developed these skills through work in various sectors, including ISPs, MSPs, business environments, hospitality, among others. This has allowed me to validate my knowledge of routing and switching with different vendors such as MikroTik, Fortinet, Huawei, Extreme, and many others.
+I am passionate about technology, and as a professional, I am a network technician with a focus on cybersecurity. I have over five years of experience in networking, including tasks such as configuring, maintaining, designing new networks, and troubleshooting. I’ve developed these skills through work in various sectors, including ISPs, MSPs, business environments, hospitality, cloud and IXP datacenter. This has allowed me to validate my knowledge of routing and switching with different vendors such as MikroTik, Fortinet, Huawei, Extreme, and many others.
 While networking is my strong suit, I also have experience with Linux-based systems, which I’ve gained by managing my own servers and services, building my own labs, and deploying and configuring monitoring and security alert systems.
 I also hold certifications in offensive cybersecurity. Because of this, I believe my place is in the purple team.
 
@@ -31,6 +31,8 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 - **Udemy**: [Fortinet 7.x: From begginer to expert - Eduardo Nazareno / In progress](https://www.udemy.com/course/fortinet-7-de-principiante-a-experto/)
 - **Fortinet Training Institute**: [FCA - FortiGate 7.4 Operator](https://training.fortinet.com/course/view.php?id=39326)
 - **RIPE Academy**: [BGP Security](https://academy.ripe.net/course/view.php?id=15)
+- **Juniper Learning**: [Open Learning - Junos, Associate (JNCIA-Junos) / In progress](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-JUNOS)
+  
 ### Cibersecurity 🔒
 - **WiFiChallenge Academy**: [CWP: Certified WiFiChallenge Professional / In progress](https://academy.wifichallenge.com/courses/certified-wifichallenge-professional-cwp-esp)
 - **TCM Security**: [Practical Ethical Hacking - The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
