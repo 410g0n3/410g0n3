@@ -22,7 +22,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=410g0n3&layout=compact)](https://github.com/410g0n3/)
 
-## 🌟 Certificates
+## 🌟 Certifications
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103209991?key=a6b541a5eeb125dd90eb9d7d51cc5e6a038c0d05b0a7f22a2eebaa7dec5bd57b"> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width=200px>
 
 ## 📚 Courses
