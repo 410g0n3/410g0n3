@@ -31,7 +31,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 - **Udemy**: [Fortinet 7.x: From begginer to expert - Eduardo Nazareno / In progress](https://www.udemy.com/course/fortinet-7-de-principiante-a-experto/)
 - **Fortinet Training Institute**: [FCA - FortiGate 7.4 Operator](https://training.fortinet.com/course/view.php?id=39326)
 - **RIPE Academy**: [BGP Security](https://academy.ripe.net/course/view.php?id=15)
-- **Juniper Learning**: [Open Learning - Junos, Associate (JNCIA-Junos) / In progress](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-JUNOS)
+- **Juniper Learning**: [Open Learning - Junos, Associate (JNCIA-Junos)](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-JUNOS)
   
 ### Cibersecurity 🔒
 - **WiFiChallenge Academy**: [CWP: Certified WiFiChallenge Professional / In progress](https://academy.wifichallenge.com/courses/certified-wifichallenge-professional-cwp-esp)
