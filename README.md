@@ -2,8 +2,10 @@
 The HTTP `410 Gone` client error response code indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent.
 
 ## 🚀 About Me
-I am passionate about technology, and as a professional, I am a network technician with a focus on cybersecurity. I have over five years of experience in networking, including tasks such as configuring, maintaining, designing new networks, and troubleshooting. I’ve developed these skills through work in various sectors, including ISPs, MSPs, business environments, hospitality, cloud and IXP datacenter. This has allowed me to validate my knowledge of routing and switching with different vendors such as MikroTik, Fortinet, Huawei, Extreme, and many others.
-While networking is my strong suit, I also have experience with Linux-based systems, which I’ve gained by managing my own servers and services, building my own labs, and deploying and configuring monitoring and security alert systems.
+I am passionate about technology, and as a professional, I am a network technician with a focus on cybersecurity. I have over five years of experience in networking, including tasks such as configuring, maintaining, designing new networks, and troubleshooting. I’ve developed these skills through work in various sectors, including ISPs, MSPs, business environments, hospitality, cloud and IXP datacenter. This has allowed me to validate my knowledge of wireless networks, routing and switching with different vendors such as MikroTik, Fortinet, Juniper, Huawei, Extreme Networks, Alcatel-Lucent, Grandstream and many others.
+
+While networking is my strong suit, I also have experience with Linux-based systems, which I’ve gained by managing my own servers and services, building my own labs, and deploying and configuring monitoring and security alert systems. You can see my homelab [here](https://410g0n3.medium.com/exposing-my-homelab-50ae06832f86)
+
 I also hold certifications in offensive cybersecurity. Because of this, I believe my place is in the purple team.
 
 ## 👨‍💻 Tech stack
@@ -14,7 +16,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 <br>**Others**<br>
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#) 
 <br>**Networking**<br>
-[![Firewall](https://img.shields.io/badge/Firewall-green)](#)  [![VLAN](https://img.shields.io/badge/VLAN-orange)](#)  [![VPN](https://img.shields.io/badge/VPN-blue)](#) [![TCP/IP](https://img.shields.io/badge/TCP/IP-gray)](#)  [![DNS](https://img.shields.io/badge/DNS-yellow)](#)  [![BGP](https://img.shields.io/badge/BGP-purple)](#) [![SD-WAN](https://img.shields.io/badge/SD%20WAN-cyan)](#)
+[![Firewall](https://img.shields.io/badge/Firewall-green)](#)  [![VLAN](https://img.shields.io/badge/VLAN-orange)](#)  [![VPN](https://img.shields.io/badge/VPN-blue)](#) [![TCP/IP](https://img.shields.io/badge/TCP/IP-gray)](#)  [![DNS](https://img.shields.io/badge/DNS-yellow)](#)  [![BGP](https://img.shields.io/badge/BGP-purple)](#) [![SD-WAN](https://img.shields.io/badge/SD%20WAN-cyan)](#) [![OSPF](https://img.shields.io/badge/OSPF-green)](#) [![IPsec](https://img.shields.io/badge/IPsec-1d592d)](#)
 <br>**Tools**<br>
 [![Wireshark](https://img.shields.io/badge/Wireshark-blueviolet)](#)  [![Nmap](https://img.shields.io/badge/Nmap-red)](#) [![MTR](https://img.shields.io/badge/MTR-darkgreen)](#)
 <br>**Virtualization**<br>
