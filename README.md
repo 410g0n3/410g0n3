@@ -25,7 +25,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=410g0n3&layout=compact)](https://github.com/410g0n3/)
 
 ## 🌟 Certifications
-<img src="https://images.credly.com/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" width=200px> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103209991?key=a6b541a5eeb125dd90eb9d7d51cc5e6a038c0d05b0a7f22a2eebaa7dec5bd57b"> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width=200px>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103209991?key=a6b541a5eeb125dd90eb9d7d51cc5e6a038c0d05b0a7f22a2eebaa7dec5bd57b"> <img src="https://images.credly.com/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" width=200px> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103209991?key=a6b541a5eeb125dd90eb9d7d51cc5e6a038c0d05b0a7f22a2eebaa7dec5bd57b"> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width=200px>
 
 ## 📚 Courses
 ### Networks 🌐
@@ -36,7 +36,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 - **Juniper Learning**: [Open Learning - Junos, Associate (JNCIA-Junos)](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-JUNOS)
   
 ### Cibersecurity 🔒
-- **WiFiChallenge Academy**: [CWP: Certified WiFiChallenge Professional / In progress](https://academy.wifichallenge.com/courses/certified-wifichallenge-professional-cwp-esp)
+- **WiFiChallenge Academy**: [CWP: Certified WiFiChallenge Professional](https://academy.wifichallenge.com/courses/certified-wifichallenge-professional-cwp-esp)
 - **TCM Security**: [Practical Ethical Hacking - The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 - **Udemy**: [Intro to Bug Bounty Hunting and Web Application Hacking / In progress](https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/)
 - **Cybrary**: [Linux Fundamentals for Security Practitioners](https://app.cybrary.it/browse/course/linux-fundamentals-for-security-practitioners)
