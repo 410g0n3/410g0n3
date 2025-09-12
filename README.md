@@ -17,8 +17,6 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#) 
 <br>**Networking**<br>
 [![Firewall](https://img.shields.io/badge/Firewall-green)](#)  [![VLAN](https://img.shields.io/badge/VLAN-orange)](#)  [![VPN](https://img.shields.io/badge/VPN-blue)](#) [![TCP/IP](https://img.shields.io/badge/TCP/IP-gray)](#)  [![DNS](https://img.shields.io/badge/DNS-yellow)](#)  [![BGP](https://img.shields.io/badge/BGP-purple)](#) [![SD-WAN](https://img.shields.io/badge/SD%20WAN-cyan)](#) [![OSPF](https://img.shields.io/badge/OSPF-green)](#) [![IPsec](https://img.shields.io/badge/IPsec-1d592d)](#)
-<br>**Tools**<br>
-[![Wireshark](https://img.shields.io/badge/Wireshark-blueviolet)](#)  [![Nmap](https://img.shields.io/badge/Nmap-red)](#) [![MTR](https://img.shields.io/badge/MTR-darkgreen)](#)
 <br>**Virtualization**<br>
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![VMware ESXi](https://img.shields.io/badge/VMware-blue)](#)  [![Proxmox](https://img.shields.io/badge/Proxmox-orange)](#)
 
