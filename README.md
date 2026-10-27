@@ -23,7 +23,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=410g0n3&layout=compact)](https://github.com/410g0n3/)
 
 ## 🌟 Certifications
-<img src="https://images.credly.com/images/8f8b5405-3460-49c2-a1ab-4c36868e7a56/image.png" width=200px> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/160273375"> <img src="https://images.credly.com/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" width=200px> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103209991?key=a6b541a5eeb125dd90eb9d7d51cc5e6a038c0d05b0a7f22a2eebaa7dec5bd57b"> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width=200px>
+<img src="https://images.credly.com/images/02201ad2-a9e6-473a-9f65-6986a2563d9f/blob" width=200px> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/160273375"> <img src="https://images.credly.com/images/a1b32a3b-e472-4f75-9898-e69435c132ea/blob" width=200px> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103209991?key=a6b541a5eeb125dd90eb9d7d51cc5e6a038c0d05b0a7f22a2eebaa7dec5bd57b"> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width=200px>
 
 ## 📚 Courses
 ### Networks 🌐
