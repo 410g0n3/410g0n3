@@ -20,8 +20,6 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 <br>**Virtualization**<br>
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![VMware ESXi](https://img.shields.io/badge/VMware-blue)](#)  [![Proxmox](https://img.shields.io/badge/Proxmox-orange)](#)
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=410g0n3&layout=compact)](https://github.com/410g0n3/)
-
 ## 🌟 Certifications
 <img src="https://images.credly.com/images/02201ad2-a9e6-473a-9f65-6986a2563d9f/blob" width=200px> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/160273375"> <img src="https://images.credly.com/images/a1b32a3b-e472-4f75-9898-e69435c132ea/blob" width=200px> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103209991?key=a6b541a5eeb125dd90eb9d7d51cc5e6a038c0d05b0a7f22a2eebaa7dec5bd57b"> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width=200px>
 
@@ -41,7 +39,7 @@ I also hold certifications in offensive cybersecurity. Because of this, I believ
 - **Cybrary**: [Linux Fundamentals for Security Practitioners](https://app.cybrary.it/browse/course/linux-fundamentals-for-security-practitioners)
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-marques-al/)   [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://410g0n3.medium.com) [![tryhackme](https://img.shields.io/badge/tryhackme-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/410g0n3) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/410g0n3)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://410g0n3.medium.com) [![tryhackme](https://img.shields.io/badge/tryhackme-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/410g0n3) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/410g0n3)
 
 ## 📫 Contact
 Please feel free to get in touch, I'll be happy to help! &#8594; [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contacto@410g0n3.es)
